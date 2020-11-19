@@ -18,4 +18,4 @@ btnDown.addEventListener('click', () => {
   const likesDownElm = document.querySelector('#likes-down');
   likesDownElm.textContent = downLikes;
 });
-
+ 
